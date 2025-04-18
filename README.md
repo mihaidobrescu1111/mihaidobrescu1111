@@ -4,7 +4,7 @@
 
 <p align="center">
   🎯 Software Engineer at <a href="https://www.dydon.ai">Dydon AI</a><br>
-  ☁️ AWS Certified Cloud Practitioner <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/f89b5a213aa04e9ab7f49e129e4bbc4b">(Certificate)</a><br>
+  ☁️ AWS Certified Cloud Practitioner (<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/f89b5a213aa04e9ab7f49e129e4bbc4b">Certificate</a>)<br>
   📍 Bucharest, Romania
 </p>
 
