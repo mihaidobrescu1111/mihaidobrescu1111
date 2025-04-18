@@ -34,7 +34,7 @@
 
 - 🧠 **[guess_the_word](https://github.com/mihaidobrescu1111/guess_the_word)**  
   A simple word-guessing game implemented in Python.  
-  <sub><i>Tech:</i> Python</sub>
+  <sub><i>Tech:</i> Python, WebSockets, Real-time Multiplayer</sub>
 
 - 🚄 **[Renfe-Webscraper](https://github.com/mihaidobrescu1111/Renfe-Webscraper)**  
   A web scraper for Renfe's website to extract train schedule information.  
