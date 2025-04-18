@@ -46,7 +46,6 @@ A web scraper for Renfe's website to extract train schedules and information.
 
 Feel free to reach out if you'd like to collaborate or just want to chat about tech!
 
-📧 [mihai.dobrescu@example.com](mailto:mihai.dobrescu@example.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/mihai-dobrescu-a0012a2a6)
 
 ---
