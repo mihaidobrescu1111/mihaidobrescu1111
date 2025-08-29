@@ -42,14 +42,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mihaidobrescu1111&show_icons=true&theme=radical" />
-</p>
-
----
-
 <h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
